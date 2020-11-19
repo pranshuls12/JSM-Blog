@@ -1,8 +1,9 @@
 <html>
 	<head>
-		<title>ciBlog</title>
-		<link rel="stylesheet" href="https://bootswatch.com/flatly/bootstrap.min.css">
+		<title>JSM</title>
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/style.css">
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     <script src="http://cdn.ckeditor.com/4.5.11/standard/ckeditor.js"></script>
 	</head>
 	<body>
